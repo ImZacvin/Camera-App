@@ -1,0 +1,4 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="timestamp_size">14sp</dimen> <!-- Change this to adjust the size of the timestamp -->
+</resources>
